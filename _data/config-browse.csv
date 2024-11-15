@@ -2,4 +2,5 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 composer,Composer,true,,
 subject,,true
-location,,true
+lyricist,Lyricist,true
+publisher,Publisher,true
