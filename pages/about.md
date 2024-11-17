@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="sb_0025" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Creator;Supporters" %}
+{% include feature/nav-menu.html sections="About the Collection;Technicals;Metadata" %}
 
 ## About the Collection
 
@@ -21,6 +21,10 @@ The songbooks featured on this site were songs popular in the United States duri
 These books were designed to be purchased by Comsumers to then be used and sang at home. This collection does not showcase the songs themselves but is instead meant to display the artistic covers of the books. Songbooks from these years were often printed multiple times with different covers each time; this collection seeks to preserve one version of some of the covers. This collection also seeks to provide information about popular composers, lyricists and publishers of these songbooks and enter their names into the public record.  
 
 This project was created for Z652: Digital Libraries with Instructor Jon Walsh and Associate Instructor Gyuri Kang in the fall of 2024. 
+
+## Techincals
+
+The songbooks featured in this collection are all single image scans in JPG format (noted as JPEG). Scans of the books were done at a high resolution in order to show more details in the images. The materials scanned are in delicate condition due to their age and wear. Some books feature various sized tears, folds and breaks in their covers. Scans of the materials were done with the delicacy of the materials in mind and light exposer was kept to a minimum in order to keep the colors of the covers intact for as long as possible. It is my hope that the digital versions of these materials will allow for their use long after the physical material has deteriorated to the point of no use.  
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
