@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="sb_0025" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;Creator;Supporters" %}
 
 ## About the Collection
 
