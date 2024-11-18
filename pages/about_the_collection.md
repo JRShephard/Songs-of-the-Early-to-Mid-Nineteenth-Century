@@ -6,7 +6,7 @@ permalink: /aboutthecollection.html
 
 {% include feature/jumbotron.html objectid="sb_0002" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Technical and Preservation" %}
+{% include feature/nav-menu.html sections="About the Collection;Technical and Preservation;Metadata Citations" %}
 
 ## About the Collection
 
@@ -24,7 +24,7 @@ The songbooks featured in this collection are all single-image scans in JPG form
 
 ## Metadata Citations
 
-The metadata fields for this collection are listed below with their respective controlled vocabularies. For more information on the metadata of this collection, please see the Metadata Application Profile.
+The metadata fields for this collection are listed below with their respective controlled vocabularies. For more information on this collection's metadata, please see the Metadata Application Profile.
 
 * Format: [IANA Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml) 
 * Title  
@@ -35,4 +35,7 @@ The metadata fields for this collection are listed below with their respective c
 * Date: [W3C Date and Time Formats](https://www.w3.org/TR/NOTE-datetime) 
 * Subject: [Library of Congress Subject Heading](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html)		 
 * Rights: [U.S Copyright Office](https://copyright.gov) 
-* Type: [DCMI Type Vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/) 
+* Type: [DCMI Type Vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/)
+
+## Rights
+All the songbooks used in this collection are in the Public Domain, as they were all copyrighted before 1929. The statement of rights has been provided by [Rights Statements](https://rightsstatements.org/en/). I understand these images are for use; if questions arise, please email jshephar@iu.edu.  
