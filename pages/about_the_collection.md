@@ -28,11 +28,11 @@ The metadata fields for this collection are listed below with their respective c
 
 * Format: [IANA Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml) 
 * Title  
-* Publisher LC Name Authority File 
-* Lyricist LC Name Authority File 
-* Composer LC Name Authority File 
-* Genre LC Genre/Form Terms 
-* Date W3C Date and Time Formats 
-* Subject LCSH		 
-* Rights U.S Copyright Office 
-* Type DMCI Type Vocabulary 
+* Publisher: [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html)
+* Lyricist: [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html) 
+* Composer: [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html)
+* Genre: [Library of Congress Genre/Form Terms](https://www.loc.gov/aba/publications/FreeLCGFT/freelcgft.html)
+* Date: [W3C Date and Time Formats](https://www.w3.org/TR/NOTE-datetime) 
+* Subject: [Library of Congress Subject Heading](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html)		 
+* Rights: [U.S Copyright Office](https://copyright.gov) 
+* Type: [DCMI Type Vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/) 
