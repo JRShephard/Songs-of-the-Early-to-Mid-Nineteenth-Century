@@ -6,7 +6,7 @@ permalink: /aboutthecollection.html
 
 {% include feature/jumbotron.html objectid="sb_0002" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Technical and Preservation;Metadata Citations" %}
+{% include feature/nav-menu.html sections="About the Collection;Technical and Preservation;Metadata Citations;Rights" %}
 
 ## About the Collection
 
