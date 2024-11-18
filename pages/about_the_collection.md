@@ -22,4 +22,17 @@ This project was created in the fall of 2024 for Z652: Digital Libraries with In
 
 The songbooks featured in this collection are all single-image scans in JPG format (noted as JPEG). Scans of the books were done at a high resolution to show more details in the images. The materials scanned are in delicate condition due to their age and wear. Some books feature various-sized tears, folds, and breaks in their covers. Scans of the materials were done with the delicacy of the materials in mind, and light exposure was kept to a minimum to keep the colors of the covers intact for as long as possible. I hope that the digital versions of these materials will allow for their use long after the physical material has deteriorated to the point of no use.  
 
+## Metadata Citations
 
+The metadata fields for this collection are listed below with their respective controlled vocabularies. For more information on the metadata of this collection, please see the Metadata Application Profile.
+
+* Format IANA Media Types 
+* Title  
+* Publisher LC Name Authority File 
+* Lyricist LC Name Authority File 
+* Composer LC Name Authority File 
+* Genre LC Genre/Form Terms 
+* Date W3C Date and Time Formats 
+* Subject LCSH		 
+* Rights U.S Copyright Office 
+* Type DMCI Type Vocabulary 
