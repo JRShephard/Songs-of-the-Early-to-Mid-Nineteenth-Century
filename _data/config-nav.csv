@@ -3,6 +3,7 @@ Home,/
 Browse,/browse.html
 Subjects,/subjects.html
 Timeline,/timeline.html
-Data,/data.html
+Data,,
+Metadat Application Profile,/metadata.html,Data
 About,,
 Creator and Support,/creator.html,About
