@@ -26,7 +26,7 @@ The songbooks featured in this collection are all single-image scans in JPG form
 
 The metadata fields for this collection are listed below with their respective controlled vocabularies. For more information on the metadata of this collection, please see the Metadata Application Profile.
 
-* Format IANA Media Types 
+* Format: [IANA Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml) 
 * Title  
 * Publisher LC Name Authority File 
 * Lyricist LC Name Authority File 
