@@ -16,4 +16,4 @@ Gray Reynolds (They/Them) is a musician, artist, librarian, cat parent and the p
 
 Johnnie McQuigg is the large, silly cat of Josie and Gray. He provided much needed cuddles during the creation of this project and only caused the deletion of two image files.  
 
-{% include feature/image.html objectid="demo_001" width="75" %}
+{% include feature/image.html objectid="https://github.com/JRShephard/Songs-of-the-Early-to-Mid-Nineteenth-Century/blob/main/assets/img/img_7498.jpg?raw=true" width="25" %}
