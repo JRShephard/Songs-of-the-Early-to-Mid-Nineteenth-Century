@@ -7,7 +7,7 @@ permalink: /creator.html
 ## Creator
 Josie Shephard (They/She) is pursuing their Master of Library Science at Indiana University-Bloomington. They love to research topics of very little meaning, crochet and cuddle their cat Johnnie.  
 
-{% include feature/image.html objectid=assets/img_6320 width="75" %}
+{% include feature/image.html objectid="assets/img_6320" width="75" %}
 
 ## Support 
 Gray Reynolds (They/Them) is a musician, artist, librarian, cat parent and the provider of much support during the creation of this project, they are currently based in Bloomington, Indiana.   
