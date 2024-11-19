@@ -7,4 +7,4 @@ cloud-min: 1
 cloud-stopwords:
 ---
 
-## Browse Authors
+## Browse Lyricists
