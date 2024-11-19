@@ -18,7 +18,7 @@ These books were designed to be purchased by consumers to be used and played at 
 
 This project was created in the fall of 2024 for Z652: Digital Libraries with Instructor Jon Walsh and Associate Instructor Gyuri Kang. 
 
-## Techincal and Preservation
+## Technical and Preservation
 
 The songbooks featured in this collection are all single-image scans in JPG format (noted as JPEG). Scans of the books were done at a high resolution to show more details in the images. The materials scanned are in delicate condition due to their age and wear. Some books feature various-sized tears, folds, and breaks in their covers. Scans of the materials were done with the delicacy of the materials in mind, and light exposure was kept to a minimum to keep the colors of the covers intact for as long as possible. I hope that the digital versions of these materials will allow for their use long after the physical material has deteriorated to the point of no use.  
 
