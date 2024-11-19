@@ -4,7 +4,8 @@ Browse,/browse.html
 Subjects,/subjects.html
 Timeline,/timeline.html
 Data,,
-Metadat Application Profile,/metadata.html,Data
+Data,/data.html,Data
+Metadata Application Profile,/metadata.html,Data
 About,,
 About the Collection,/aboutthecollection.html,About
 Creator and Support,/creator.html,About
