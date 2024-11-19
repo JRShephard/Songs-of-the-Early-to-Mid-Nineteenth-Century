@@ -1,11 +1,12 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
-Subjects,/subjects.html
-Genre,/genre.html
+Browse by Content,,
+Subjects,/subjects.html,Browse by Content
+Genre,/genre.html,Browse by Content
 Browse by Contributors,,
 Lyricists,/lyricists.html,Browse by Contributors
-Composer,/composer.html,Browser by Contributors
+Composer,/composer.html,Browse by Contributors
 Publisher,/publisher.html,Browse by Contributors
 Timeline,/timeline.html
 Data,,
