@@ -3,7 +3,7 @@ title: Metadata Application Profile
 layout: about
 permalink: /metadata.html
 ---
-
+{% include feature/nav-menu.html sections="Metadata Application Profile;Content;Context;Anticipated Users;Browsable Features;Metadata Application" %}
 # Metadata Application Profile
 This page contains the Metatdata Application Profile (MAP) for this collection. The MAP provides an outline of the content, context and anticipated users of this site while also providing a look at the browsable features of the collection. The MAP also supplies a table of the metadata fields used for this site along with each fields mapping to Dublin Core, controlled vocabularies, content guidelines, obligation, cardinality and examples. 
 Bellow you will find the content, context, ancipated users and browsable features. 
