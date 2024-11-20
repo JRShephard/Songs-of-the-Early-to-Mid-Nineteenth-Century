@@ -28,16 +28,16 @@ The songbooks featured in this collection are all single-image scans in JPG form
 
 ## Metadata Citations
 
-The metadata fields for this collection are listed below with their respective controlled vocabularies. For more information on this collection's metadata, please see the Metadata Application Profile.
+The metadata fields for this collection are listed below with their respective controlled vocabularies; browseable fields have been linked. For more information about the metadata, please see the [Metadata Application Profile](https://jrshephard.github.io/Songs-of-the-Early-to-Mid-Nineteenth-Century/metadata.html).
 
 * Format: [IANA Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml) 
 * Title  
-* Publisher: [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html)
-* Lyricist: [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html) 
-* Composer: [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html)
-* Genre: [Library of Congress Genre/Form Terms](https://www.loc.gov/aba/publications/FreeLCGFT/freelcgft.html)
+* [Publisher](https://jrshephard.github.io/Songs-of-the-Early-to-Mid-Nineteenth-Century/publisher.html): [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html)
+* [Lyricist](https://jrshephard.github.io/Songs-of-the-Early-to-Mid-Nineteenth-Century/lyricists.html): [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html) 
+* [Composer](https://jrshephard.github.io/Songs-of-the-Early-to-Mid-Nineteenth-Century/composer.html): [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html)
+* [Genre](https://jrshephard.github.io/Songs-of-the-Early-to-Mid-Nineteenth-Century/genre.html): [Library of Congress Genre/Form Terms](https://www.loc.gov/aba/publications/FreeLCGFT/freelcgft.html)
 * Date: [W3C Date and Time Formats](https://www.w3.org/TR/NOTE-datetime) 
-* Subject: [Library of Congress Subject Heading](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html)		 
+* [Subject](https://jrshephard.github.io/Songs-of-the-Early-to-Mid-Nineteenth-Century/subjects.html): [Library of Congress Subject Heading](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html)		 
 * Rights: [U.S Copyright Office](https://copyright.gov) 
 * Type: [DCMI Type Vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/)
 
