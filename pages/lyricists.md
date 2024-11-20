@@ -8,3 +8,4 @@ cloud-stopwords:
 ---
 
 ## Browse Lyricists
+Search by your favorite wordsmith!
