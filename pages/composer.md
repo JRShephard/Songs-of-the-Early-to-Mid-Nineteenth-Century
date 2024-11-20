@@ -8,3 +8,4 @@ cloud-stopwords:
 ---
 
 ## Browse Composer
+Search for your favorite composer!
