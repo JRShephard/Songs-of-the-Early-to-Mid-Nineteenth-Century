@@ -10,7 +10,7 @@ permalink: /aboutthecollection.html
 
 ## About the Collection
 
-This collection contains scans of songbook covers from 1909-1927. They have been sourced from the personal collection of Josie Shephard (learn more in Creator and Support); the books were gathered over several years from various thrift stores and vintage markets and stores. This collection was designed to showcase popular song titles from the early 1900s.  
+This collection contains scans of songbook covers from 1909-1927. They have been sourced from the personal collection of Josie Shephard (learn more in [Creator and Support](pages/creator_and_support.md)); the books were gathered over several years from various thrift stores and vintage markets and stores. This collection was designed to showcase popular song titles from the early 1900s.  
 
 The songbooks featured on this site were physical copies of songs popular in the United States during their printing. Many songs contain themes of love, a familiar song topic; some in the collection focused on other topics, such as World War One and break-ups. Some of the collection's songbooks are considered humorous due to their joking lyrics and unserious topics. Some of the songs in the collection come from stage shows that were popular at the time, while others come from radio and dance clubs.  Many of the songs fall into the primary genre of popular music while touching on other genres, such as Jazz and Ragtime. 
 
