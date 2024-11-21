@@ -1,6 +1,8 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,true
+lyricist,Lyricist,true
+composer,Composer,true
+publisher,Publisher,true
 date,Date Created,true
 subject,Subjects,true
 genre,Genre,true
