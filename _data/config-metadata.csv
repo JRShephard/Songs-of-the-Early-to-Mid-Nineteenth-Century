@@ -3,6 +3,7 @@ title,Title,
 creator,Creator,
 date,Date Created,
 subject,Subjects,true
+genre,Genre,,
 source,Source
 identifier,Source Identifier,,
 type,Type,
