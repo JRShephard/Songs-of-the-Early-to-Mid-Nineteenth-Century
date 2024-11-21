@@ -1,9 +1,9 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
+creator,Creator,true
+date,Date Created,true
 subject,Subjects,true
-genre,Genre,,
+genre,Genre,true
 source,Source
 identifier,Source Identifier,,
 type,Type,
